@@ -1,2 +1,2 @@
 # quoted-Reny-E
-Projet GIT
+Projet TP GIT
